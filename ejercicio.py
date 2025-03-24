@@ -1,6 +1,6 @@
 from clases import Fijo, Variable
 
-#Prueba Actualización 
+#Actualización
 
 def opcion1(diccionario):
     print("Introduce los datos del empleado: ")
