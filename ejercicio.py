@@ -1,5 +1,7 @@
 from clases import Fijo, Variable
 
+#Prueba Actualización 
+
 def opcion1(diccionario):
     print("Introduce los datos del empleado: ")
     tipo = str(input("Tipo de empleado (fijo/temporal): "))
